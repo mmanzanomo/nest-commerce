@@ -38,6 +38,11 @@ $ yarn start
 $ yarn start:dev
 ```
 
+## Add dummy data
+```
+http://localhost:3000/api/v1/seed
+```
+
 ## Stack
 
 * Nest
